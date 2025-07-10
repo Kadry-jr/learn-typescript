@@ -1,8 +1,4 @@
 # Learn TypeScript: From Basics to Advanced 🚀
-![GitHub repo size](https://img.shields.io/github/repo-size/Kadry-jr/learn-typescript)
-![GitHub stars](https://img.shields.io/github/stars/Kadry-jr/learn-typescript?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Last Commit](https://img.shields.io/github/last-commit/Kadry-jr/learn-typescript)
 
 Welcome to  the TypeScript learning repository. This repo covers:
 
