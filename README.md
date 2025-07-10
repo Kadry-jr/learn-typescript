@@ -1,1 +1,3 @@
-# learn-typescript
+# Learn TypeScript: From Basics to Advanced 🚀
+
+This is a complete learning path for TypeScript...
