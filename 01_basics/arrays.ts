@@ -1,3 +1,3 @@
 let scores: number[] = [10, 20, 30];
-let names: Array<string> = ["Ali", "Sara"];
+let names: Array<string> = ["Ahmed", "Sara"];
 console.log(scores, names);
