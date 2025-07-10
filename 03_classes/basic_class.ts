@@ -8,5 +8,5 @@ class nPerson {
   }
 }
 
-const p = new nPerson("Ali");
+const p = new nPerson("Zakaria");
 p.greet();
