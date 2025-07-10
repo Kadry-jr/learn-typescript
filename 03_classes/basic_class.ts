@@ -1,4 +1,4 @@
-class Person {
+class nPerson {
   name: string;
   constructor(name: string) {
     this.name = name;
@@ -8,5 +8,5 @@ class Person {
   }
 }
 
-const p = new Person("Ali");
+const p = new nPerson("Ali");
 p.greet();
